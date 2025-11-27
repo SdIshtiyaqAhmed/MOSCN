@@ -4,7 +4,7 @@ This repository contains coursework, assignment solutions, and related resources
 
 ## About the Project
 
-The primary goal of this repository is to serve as a learning and revision resource for operating system fundamentals and introductory computer networks. It combines written assignment documents with small C++ programs to bridge the gap between theory and hands-on practice.
+The primary goal of this repository is to serve as a learning and revision resource for operating system fundamentals and introductory computer networks. It combines written assignment documents with C++ programs to bridge the gap between theory and hands-on practice.
 
 ## Contents
 
